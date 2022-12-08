@@ -23,7 +23,7 @@ sudo apt-get install gazebo11 libgazebo11-dev
 ## Install Gazebo plugin for ArduPilot
 ```
 cd ~
-git clone https://github.com/khancyr/ardupilot_gazebo.git
+git clone https://github.com/SwiftGust/ardupilot_gazebo.git
 cd ardupilot_gazebo
 ```
 ### Build and install plugin
